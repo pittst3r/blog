@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap');
+
+body {
+  font-family: "Atkinson Hyperlegible Next", sans-serif;
+  margin: 2rem;
+  line-height: 1.5;
+}
+
+h1 {
+  line-height: 1;
+}
+
+small {
+  color: #555;
+}
